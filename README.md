@@ -14,8 +14,8 @@ $ yarn add parse-wechat-xml
 ## 使用
 
 ```js
-// import parseWechatXML from '.';
-const { parseWechatXML } = require('.');
+// import parseWechatXML from 'parse-wechat-xml';
+const { parseWechatXML } = require('parse-wechat-xml');
 
 const xml = `
 <xml>
