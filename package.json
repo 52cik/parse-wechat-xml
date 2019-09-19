@@ -1,0 +1,31 @@
+{
+  "name": "parse-wechat-xml",
+  "version": "0.1.0",
+  "description": "Parsing wechat XML without using xml2js. (微信 XML 解析，非 xml2js)",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/52cik/parse-wechat-xml.git"
+  },
+  "keywords": [
+    "wechat",
+    "xml",
+    "xml-parser"
+  ],
+  "author": "楼教主 <fe.52cik@gmail.com> (https://www.52cik.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/52cik/parse-wechat-xml/issues"
+  },
+  "homepage": "https://github.com/52cik/parse-wechat-xml#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
